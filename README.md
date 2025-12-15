@@ -23,12 +23,11 @@ In this tutorial, we will configure the lockout under Group Policy Management. W
 
 <h2>High-Level Steps for Group Policy and Account Management</h2>
 
-Step 1 - On the Domain Controller, open the Group Policy Management Console, navigate to the correct domain, then to the Group Policy             Objects. Create a new GPO or modify an existing one.
-
-Step 2 - Navigate to Account Lockout Policy > Define this policy setting and configure it as desired.    
-Step 3 - Update and verify the group policy.
+* Step 1 - On the Domain Controller, open the Group Policy Management Console, navigate to the correct domain, then to the Group Policy             Objects. Create a new GPO or modify an existing one.
+* Step 2 - Navigate to Account Lockout Policy > Define this policy setting and configure it as desired.    
+* Step 3 - Update and verify the group policy.
 <h2>Account Enabling and Disabling</h2>
-Step 1 - 
+* Step 1 - 
 
 <h2>Actions and Observations</h2>
 
