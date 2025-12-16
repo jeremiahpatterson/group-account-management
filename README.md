@@ -29,6 +29,8 @@ In this tutorial, we will configure the lockout under Group Policy Management. W
 <h2>Account Enabling and Disabling</h2>
 * Step 1 - 
 
+
+Step 11 - Task Complete
 <h2>Actions and Observations</h2>
 
 <p>
