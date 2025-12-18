@@ -15,6 +15,7 @@ In this tutorial, we will configure the lockout under Group Policy Management. W
 
 <h2>Operating Systems Used </h2>
 
+- Windows Server 2022 Datacenter - x64 Gen2
 - Windows 10 Enterprise, version 22H2 - x64 Gen2
 
 <h2>High-Level Steps for Group Policy and Account Management</h2>
